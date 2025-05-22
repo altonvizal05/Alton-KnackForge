@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+}
+.header{
+    justify-content: center;
+    text-align: center;
+    display: block;
+    background-color: rgb(145, 181, 215);
+    padding: 10px;
+}
+.content{
+    padding: 20px;
+    background-color: rgb(192, 213, 233);
+    display:block;
+
+    
+
+}
+
+h1, h2, h3, h4 {
+    color: #050709;
+  }
+  .image {
+    width: 200px;
+    height: 300px;
+    border-radius: 20px;
+    padding: 10px;
+
+  }
+  .hobbies {
+    background-color: white;
+    padding:20px;
+    border-style: solid;
+    border-color: #3498db;
+    margin-top: 20px;
+  }
+  .about{
+    background-color: white;
+    padding:20px;
+    border-style: solid;
+    border-color: #3498db;
+    margin-top: 20px;
+  }
+  .name,.email{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+  }
+  .email{
+    margin-top: 5px;
+  }
+  
+  
+  
+
+
