@@ -1,0 +1,40 @@
+form {
+    background-color: #d5b9af;
+    padding: 20px;
+    border-radius: 8px;
+    
+  }
+  .form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; 
+    background-color: #f0e4d9; 
+  }
+  table {
+    border-collapse:collapse;
+    width: 100%;
+  }
+  .submit {
+  text-align: center;
+  
+  }
+  input[type="submit"]{
+    padding:3px;
+    color:black;
+    cursor: pointer;
+    
+  }
+  td {
+    padding:15px;
+  
+  }
+  .select-width{
+    width: 170px;
+    padding: 2px;
+  }
+  
+  
+
+  
+
