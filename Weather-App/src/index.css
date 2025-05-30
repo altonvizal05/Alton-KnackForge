@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  box-sizing: border-box;
+}
+
+.app{
+
+  background: rgb(227, 220, 208);
+  min-height: 100vh;
+  display: grid;
+
+}
